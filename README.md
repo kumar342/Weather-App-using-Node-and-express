@@ -16,7 +16,7 @@ A Simple Weather app using Express Node and JavaScript.
 To run the project
 
 ```
-git clone git@github.com:shivamangina/Location-Weather-App-Using-Express-Node-JavaScript.git
+https://github.com/kumar342/Weather-App-using-Node-and-express.git
 ```
 
 To Install modules 
